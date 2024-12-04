@@ -1,0 +1,82 @@
+﻿  Camera.cpp
+  DirectionalLight.cpp
+E:\Cadminimum\Cadminimum\DirectionalLight.cpp(21,14): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+E:\Cadminimum\Cadminimum\DirectionalLight.cpp(22,14): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+E:\Cadminimum\Cadminimum\DirectionalLight.cpp(24,14): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+E:\Cadminimum\Cadminimum\DirectionalLight.cpp(25,14): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+  Light.cpp
+  main.cpp
+E:\Cadminimum\Cadminimum\Model.h(6,10): fatal error C1083: Cannot open include file: 'assimp\Importer.hpp': No such file or directory
+  Material.cpp
+  Mesh.cpp
+  Model.cpp
+E:\Cadminimum\Cadminimum\Model.h(6,10): fatal error C1083: Cannot open include file: 'assimp\Importer.hpp': No such file or directory
+  OmniShadowMap.cpp
+E:\Cadminimum\Cadminimum\OmniShadowMap.cpp(16,142): warning C4267: 'argument': conversion from 'size_t' to 'GLenum', possible loss of data
+E:\Cadminimum\Cadminimum\OmniShadowMap.cpp(35,10): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'GLenum'
+E:\Cadminimum\Cadminimum\OmniShadowMap.cpp(35,10): warning C4313: 'printf': '%s' in format string conflicts with argument 1 of type 'GLenum'
+  PointLight.cpp
+  Shader.cpp
+E:\Cadminimum\Cadminimum\Shader.cpp(140,38): warning C4477: 'snprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+E:\Cadminimum\Cadminimum\Shader.cpp(140,38): message : consider using '%zd' in the format string
+E:\Cadminimum\Cadminimum\Shader.cpp(143,38): warning C4477: 'snprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+E:\Cadminimum\Cadminimum\Shader.cpp(143,38): message : consider using '%zd' in the format string
+E:\Cadminimum\Cadminimum\Shader.cpp(146,38): warning C4477: 'snprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+E:\Cadminimum\Cadminimum\Shader.cpp(146,38): message : consider using '%zd' in the format string
+E:\Cadminimum\Cadminimum\Shader.cpp(149,38): warning C4477: 'snprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+E:\Cadminimum\Cadminimum\Shader.cpp(149,38): message : consider using '%zd' in the format string
+E:\Cadminimum\Cadminimum\Shader.cpp(152,38): warning C4477: 'snprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+E:\Cadminimum\Cadminimum\Shader.cpp(152,38): message : consider using '%zd' in the format string
+E:\Cadminimum\Cadminimum\Shader.cpp(155,38): warning C4477: 'snprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+E:\Cadminimum\Cadminimum\Shader.cpp(155,38): message : consider using '%zd' in the format string
+E:\Cadminimum\Cadminimum\Shader.cpp(158,38): warning C4477: 'snprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+E:\Cadminimum\Cadminimum\Shader.cpp(158,38): message : consider using '%zd' in the format string
+E:\Cadminimum\Cadminimum\Shader.cpp(168,38): warning C4477: 'snprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+E:\Cadminimum\Cadminimum\Shader.cpp(168,38): message : consider using '%zd' in the format string
+E:\Cadminimum\Cadminimum\Shader.cpp(171,38): warning C4477: 'snprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+E:\Cadminimum\Cadminimum\Shader.cpp(171,38): message : consider using '%zd' in the format string
+E:\Cadminimum\Cadminimum\Shader.cpp(174,38): warning C4477: 'snprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+E:\Cadminimum\Cadminimum\Shader.cpp(174,38): message : consider using '%zd' in the format string
+E:\Cadminimum\Cadminimum\Shader.cpp(177,38): warning C4477: 'snprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+E:\Cadminimum\Cadminimum\Shader.cpp(177,38): message : consider using '%zd' in the format string
+E:\Cadminimum\Cadminimum\Shader.cpp(180,38): warning C4477: 'snprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+E:\Cadminimum\Cadminimum\Shader.cpp(180,38): message : consider using '%zd' in the format string
+E:\Cadminimum\Cadminimum\Shader.cpp(183,38): warning C4477: 'snprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+E:\Cadminimum\Cadminimum\Shader.cpp(183,38): message : consider using '%zd' in the format string
+E:\Cadminimum\Cadminimum\Shader.cpp(186,38): warning C4477: 'snprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+E:\Cadminimum\Cadminimum\Shader.cpp(186,38): message : consider using '%zd' in the format string
+E:\Cadminimum\Cadminimum\Shader.cpp(189,38): warning C4477: 'snprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+E:\Cadminimum\Cadminimum\Shader.cpp(189,38): message : consider using '%zd' in the format string
+E:\Cadminimum\Cadminimum\Shader.cpp(192,38): warning C4477: 'snprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+E:\Cadminimum\Cadminimum\Shader.cpp(192,38): message : consider using '%zd' in the format string
+E:\Cadminimum\Cadminimum\Shader.cpp(207,38): warning C4477: 'snprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+E:\Cadminimum\Cadminimum\Shader.cpp(207,38): message : consider using '%zd' in the format string
+E:\Cadminimum\Cadminimum\Shader.cpp(215,38): warning C4477: 'snprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+E:\Cadminimum\Cadminimum\Shader.cpp(215,38): message : consider using '%zd' in the format string
+E:\Cadminimum\Cadminimum\Shader.cpp(218,38): warning C4477: 'snprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+E:\Cadminimum\Cadminimum\Shader.cpp(218,38): message : consider using '%zd' in the format string
+E:\Cadminimum\Cadminimum\Shader.cpp(275,75): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
+E:\Cadminimum\Cadminimum\Shader.cpp(275,26): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
+E:\Cadminimum\Cadminimum\Shader.cpp(274,91): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
+E:\Cadminimum\Cadminimum\Shader.cpp(274,42): warning C4244: 'argument': conversion from 'GLuint' to 'GLfloat', possible loss of data
+E:\Cadminimum\Cadminimum\Shader.cpp(290,63): warning C4267: 'argument': conversion from 'size_t' to 'GLenum', possible loss of data
+E:\Cadminimum\Cadminimum\Shader.cpp(291,74): warning C4267: 'argument': conversion from 'size_t' to 'GLint', possible loss of data
+E:\Cadminimum\Cadminimum\Shader.cpp(309,63): warning C4267: 'argument': conversion from 'size_t' to 'GLenum', possible loss of data
+E:\Cadminimum\Cadminimum\Shader.cpp(310,74): warning C4267: 'argument': conversion from 'size_t' to 'GLint', possible loss of data
+E:\Cadminimum\Cadminimum\Shader.cpp(364,36): warning C4267: '=': conversion from 'size_t' to 'GLint', possible loss of data
+  ShadowMap.cpp
+E:\Cadminimum\Cadminimum\ShadowMap.cpp(37,10): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'GLenum'
+E:\Cadminimum\Cadminimum\ShadowMap.cpp(37,10): warning C4313: 'printf': '%s' in format string conflicts with argument 1 of type 'GLenum'
+  Skybox.cpp
+E:\Cadminimum\Cadminimum\Skybox.cpp(34,114): warning C4267: 'argument': conversion from 'size_t' to 'GLenum', possible loss of data
+  SpotLight.cpp
+  Texture.cpp
+  Window.cpp
+E:\Cadminimum\Cadminimum\Window.cpp(136,22): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\Cadminimum\Cadminimum\Window.cpp(137,22): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\Cadminimum\Cadminimum\Window.cpp(141,28): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\Cadminimum\Cadminimum\Window.cpp(142,40): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\Cadminimum\Cadminimum\Window.cpp(144,21): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\Cadminimum\Cadminimum\Window.cpp(145,21): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  Generating Code...
+E:\Cadminimum\Cadminimum\Window.cpp(86): warning C4715: 'Window::Initialise': not all control paths return a value

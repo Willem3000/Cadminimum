@@ -1,0 +1,3 @@
+﻿  main.cpp
+E:\Cadminimum\Cadminimum\main.cpp(310,15): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  Cadminimum.vcxproj -> E:\Cadminimum\Cadminimum\Debug\Cadminimum.exe
